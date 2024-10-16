@@ -9,3 +9,7 @@ func main() {
 	// commit 6
 	// commit 5
 }
+
+func a() {
+
+}
