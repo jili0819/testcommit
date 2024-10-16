@@ -8,3 +8,7 @@ func main() {
 	// commit 5
 	// commit 6
 }
+
+func a() {
+
+}
